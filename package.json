@@ -16,7 +16,7 @@
 		"lint-fix": "npx tslint --fix -c ./tslint.json 'src/**/*{.ts,.tsx}'"
 	},
 	"dependencies": {
-		"axios": "^0.19.0",
+		"axios": "^0.21.1",
 		"core-js": "^2.6.5",
 		"sha3": "^2.0.4",
 		"socket.io": "^2.2.0",
